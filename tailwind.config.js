@@ -10,7 +10,7 @@ export default {
         center:true,
         padding:"20px",
         screens:{
-          lg:"1440px",
+          lg:"1440",
         }
       }
     },

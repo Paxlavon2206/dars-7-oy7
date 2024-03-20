@@ -15,7 +15,7 @@ export const AppLayout = () => {
         </main>
       </div>
 
-      <footer>
+      <footer className="">
         <Footer />
       </footer>
     </div>

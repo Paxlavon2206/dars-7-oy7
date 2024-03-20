@@ -3,3 +3,8 @@
 @tailwind utilities;
 
 
+@layer base {
+    body {
+      overflow-x: hidden;
+    }
+  }
